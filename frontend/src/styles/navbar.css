@@ -1,0 +1,9 @@
+.logo{ width:140px; height:140px; margin-left:8%; cursor:pointer; border-radius:72px; }
+.navbar{ width:90%; margin:auto; padding:15px 0; display:flex; align-items:center; justify-content:space-between; }
+.navbar ul{ margin:0; padding:0; }
+.navbar ul li{ list-style:none; display:inline-block; margin:0 15px; position:relative; }
+.navbar ul li a{ text-decoration:none; color:#2f2a03ea; text-transform:uppercase; }
+.navbar ul li::after{ content:''; height:3px; width:0; background:#009688; position:absolute; left:0; bottom:-10px; transition:0.5s; }
+.navbar ul li:hover::after{ width:100%; }
+
+

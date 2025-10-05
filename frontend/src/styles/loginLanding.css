@@ -1,0 +1,6 @@
+.banner{ width:100%; height: calc(100vh - 100px); background: -webkit-linear-gradient(rgb(26,26,26)); display:flex; flex-direction:column; align-items:center; justify-content:center; color:#dedccd; text-align:center; }
+.column{ float:none; width:auto; padding:5px 0; }
+.row img{ max-width:100%; height:auto; transition: transform .3s ease-in-out; }
+.row img:hover{ transform: scale(1.1); }
+
+

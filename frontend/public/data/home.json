@@ -1,0 +1,15 @@
+{
+  "features": [
+    { "title": "Curated Curriculum", "desc": "Maximize your time-to-skill with focused content." },
+    { "title": "Hands-on Projects", "desc": "Practice by building real mini-projects." },
+    { "title": "Community Support", "desc": "Learn with peers and mentors." }
+  ],
+  "stats": [
+    { "k": "50K+", "v": "Learners" },
+    { "k": "100+", "v": "Courses" },
+    { "k": "4.8/5", "v": "Avg Rating" },
+    { "k": "0$", "v": "Cost" }
+  ]
+}
+
+

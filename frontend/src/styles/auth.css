@@ -1,0 +1,15 @@
+.auth-wrapper{ background: -webkit-linear-gradient(right,#003366,#004080,#0059b3,#0073e6); min-height: calc(100vh - 100px); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:20px; }
+.log{ text-align:center; margin-bottom:10px; }
+.title-text{ text-align:center; color:#fff; margin-bottom:8px; }
+.form-container{ width:min(480px, 90%); background:#fff; border-radius:12px; padding:16px; box-shadow: 0 10px 20px rgba(0,0,0,.15); }
+.slide-controls{ display:flex; gap:8px; align-items:center; margin-bottom:12px; }
+.slide{ background:#e6eef9; border:none; padding:8px 12px; border-radius:6px; cursor:pointer; color:#003366; }
+.slide.active{ background:#003366; color:#fff; }
+.slider-tab{ display:none; }
+.form-inner .field{ margin:10px 0; }
+.field input{ width:100%; padding:10px; border:1px solid #ccc; border-radius:6px; }
+.field.btn input{ background: -webkit-linear-gradient(right,#003366,#004080,#0059b3,#0073e6); color:#fff; border:none; cursor:pointer; }
+.pass-link, .signup-link{ font-size: .9rem; }
+.signup-link button{ background:transparent; color:#0073e6; border:none; cursor:pointer; text-decoration:underline; }
+
+

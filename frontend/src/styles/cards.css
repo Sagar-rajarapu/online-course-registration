@@ -1,0 +1,15 @@
+.card{ display:grid; grid-template-columns:1fr; width:100%; grid-template-rows:auto; grid-template-areas:"image" "text" "stats"; border-radius:18px; background:#f8f3d1; box-shadow:5px 5px 15px rgba(0,0,0,0.9); text-align:center; transition:.5s ease; cursor:pointer; max-width:900px; margin:0 auto; }
+.card .card-image{ grid-area:image; border-top-left-radius:15px; border-top-right-radius:15px; width:180px; height:190px; max-width:100%; height:auto; }
+.card-text{ grid-area:text; margin:3px; }
+.card-text .date{ color:rgb(255,7,110); font-size:.8125em; }
+.card-text p{ color:grey; font-size:.9375em; font-weight:300; }
+.card-text h2{ margin-top:0; font-size:1.75em; }
+.card-stats{ grid-area:stats; display:grid; grid-template-columns:1fr 1fr 1fr; grid-template-rows:1fr; border-bottom-left-radius:15px; border-bottom-right-radius:15px; background:rgb(255,7,110); }
+.card-stats .stat{ display:flex; align-items:center; justify-content:center; flex-direction:column; color:white; padding:10px; }
+.card:hover{ transform:scale(1.15); box-shadow:5px 5px 15px rgba(0,0,0,0.6); }
+.popup{ position:fixed; inset:0; background:rgba(0,0,0,.6); display:flex; align-items:center; justify-content:center; }
+.popup-content{ position:relative; width:min(90vw,900px); aspect-ratio:16/9; background:#000; }
+.popup-content iframe{ width:100%; height:100%; border:0; }
+.close-btn{ position:absolute; top:8px; right:12px; background:transparent; color:white; font-size:32px; border:none; cursor:pointer; }
+
+

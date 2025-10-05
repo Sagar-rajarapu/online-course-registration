@@ -1,0 +1,11 @@
+[
+  {"title":"Html","image":"/html_tutorial.jpg","href":"https://www.youtube.com/watch?v=ESnrn1kAD4E","date":"14 days ago","blurb":"HTML Tutorial for Beginners | Complete HTML with Notes & Code. After completing this course you will be able to design basic frontend pages.","stats":{"read":"1m","views":"1m","comments":"12,801"}},
+  {"title":"CSS","image":"/css_tutorial.jpg","href":"https://www.youtube.com/watch?v=ESnrn1kAD4E","date":"12 days ago","blurb":"Complete CSS with Project, Notes & Code. After completing, you will style your own website pages.","stats":{"read":"3m","views":"4m","comments":"5,063"}},
+  {"title":"JAVA SCRIPT","image":"/javascript_tutorial.jpg","href":"https://www.youtube.com/watch?v=VlPiVmYuoqw","date":"10 days ago","blurb":"JavaScript Tutorial for Beginners to Pro with notes and projects.","stats":{"read":"687k","views":"687k","comments":"11"}},
+  {"title":"BOOTSTRAP","image":"/bootstrap_tutorial.jpg","href":"https://www.youtube.com/watch?v=vpAJ0s5S2t0","date":"8 days ago","blurb":"Bootstrap Tutorial for Beginners to Pro with Notes & Practice Questions.","stats":{"read":"1.9m","views":"2m","comments":"5500"}},
+  {"title":"JAVA","image":"/java_tutorial.jpg","href":"https://www.youtube.com/watch?v=UmnCZ7-9yDY","date":"6 days ago","blurb":"Learn Java in 2 Hours with full confidence and lots of excitement.","stats":{"read":"5m","views":"5.3m","comments":"5000"}},
+  {"title":"MySQL","image":"/mysql_tutorial.jpg","href":"https://youtube.com/watch?v=7S_tz1z_5bA","date":"4 days ago","blurb":"MySQL tutorial for beginners - Learn MySQL, the most popular open source database.","stats":{"read":"9m","views":"10m","comments":"9000"}},
+  {"title":"Amazon Clone","image":"/amazonclone.jpeg","href":"https://www.youtube.com/watch?v=nGhKIC_7Mkk","date":"2 days ago","blurb":"Building AMAZON Clone for Beginners | Project using HTML & CSS.","stats":{"read":"1m","views":"1.5m","comments":"1400"}}
+]
+
+

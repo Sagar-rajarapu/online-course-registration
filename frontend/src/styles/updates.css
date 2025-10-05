@@ -1,0 +1,9 @@
+.section-50{ padding:50px 0; }
+.container{ max-width:1000px; margin:0 auto; }
+.notification-ui_dd-content{ display:flex; flex-direction:column; gap:16px; }
+.notification-list{ display:flex; justify-content:space-between; align-items:center; background:#fff; padding:12px; border-radius:8px; box-shadow:0 2px 4px rgba(0,0,0,.08); }
+.notification-list_img img{ width:48px; height:48px; border-radius:50%; }
+.notification-list_feature-img img{ width:100px; height:60px; object-fit:cover; border-radius:6px; }
+.heading-line{ margin:0 0 24px; }
+
+
