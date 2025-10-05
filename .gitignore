@@ -1,0 +1,49 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Node / Vite (root or nested frontend/)
+node_modules/
+frontend/node_modules/
+
+# Build outputs
+/dist/
+frontend/dist/
+.vite/
+frontend/.vite/
+
+# Coverage / test outputs
+coverage/
+*.lcov
+
+# Cache
+.cache/
+frontend/.cache/
+
+# Misc tool dirs
+.vercel/
+.netlify/
+.turbo/
+.next/
+
+# Lockfiles you might exclude (uncomment if desired)
+# package-lock.json
+# pnpm-lock.yaml
+# yarn.lock
